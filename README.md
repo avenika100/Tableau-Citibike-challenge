@@ -9,7 +9,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 ## Insturctions 
 
-Winter Citi Bike Analysis and all the links for the visualization are included in the Analysis file. 
+Winter Citi Bike Analysis and all the links for the visualization are included in the Analysis.docs. Open the Analysis.docx file and click on the 'raw data' link. File will be downloaded to the device and you should be able to open a word document that would have the analysis for the Citi Bike Challange with respective links for the tableau visualizations. 
 
 
 
